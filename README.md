@@ -1,6 +1,8 @@
-# vue-todo_list
+# vue-todolist
 
 First project made with Vue.js. This project was built while following along with Traversy Media Vue Crash Course found at: https://www.youtube.com/watch?v=Wy9q22isx3U&t=1648s
+
+Looking to rebuild with Vue Material.
 
 ## Project setup
 
